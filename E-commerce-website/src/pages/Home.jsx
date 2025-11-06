@@ -6,7 +6,7 @@ const Home = ({cardData , handleAddToCart}) => {
  
 
   return (
-    <div className={`mt-18 flex flex-wrap gap-6 justify-center max-w-[1580px] mx-auto p-4`}>
+    <div className={` flex flex-wrap gap-6 justify-center max-w-[1580px] mx-auto p-4`}>
       {/* Home page implementation */}
     
 

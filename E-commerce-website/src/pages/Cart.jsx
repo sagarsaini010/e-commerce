@@ -4,6 +4,7 @@ const Cart = ({ cartlist }) => {
   const handleClick = (id) => {
     const updatedCart = newCartlist.filter(item => item.id !== id);
     setNewCartlist(updatedCart);
+  
   };
 
   return (
